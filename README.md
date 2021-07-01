@@ -1,2 +1,1 @@
-# pullreq
-プルリクテストその2
+# Hello, Pull Request
